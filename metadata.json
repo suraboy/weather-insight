@@ -1,0 +1,7 @@
+{
+  "name": "Thai-Japan Weather & Compare",
+  "description": "A comprehensive weather application specializing in Thailand and Japan, featuring real-time data, 5-day forecasts, and an AI-powered city comparison tool.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
